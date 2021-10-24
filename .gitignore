@@ -2,4 +2,7 @@
 /.idea/
 composer.lock
 
-/docs/_build
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
